@@ -1,0 +1,18 @@
+.dloc{
+    box: shadow 5px 4px 3px 2px ;
+
+    text-align: center;
+    width: 300px;
+height: 400px;
+background-color: rgb(40, 117, 57);
+
+}
+.dloc:hover{ cursor: pointer;
+    width: 450px ;
+    transform: rotate(360deg);
+    transition: 5s;
+}
+img{
+    width: 250px;
+    height: 300px;
+}
